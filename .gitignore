@@ -1,0 +1,9 @@
+# Environment file
+.env
+
+# Node.js modules
+node_modules
+
+# Local SQLite3 database
+db/local.sqlite3
+db/local.sqlite3-journal
